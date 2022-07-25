@@ -50,6 +50,6 @@ A Developer Business Wesbite Lnading Page template designed purely with `HTML` a
   `4 hours`
 
 ### Deployed Link
-[HTML and CSS Assignment]()
+[HTML and CSS Assignment](https://html-css-landing-page.vercel.app/)
 
 ***
